@@ -79,3 +79,50 @@
 > ## Select Data with Limit    টেবিল এর  কলাম  এর ডাটা  Limit Get   করতে  ব্যবহার  করা হয় 
 > 
 ![image not found ](./img/limit-data.png) 
+
+> ## DISTINCT :- টেবিল এর  নির্দিষ্ট কলাম এর  মিল থাকা ডাটা শুধুমাত্র  একবার দেখার  জন্য  ব্যবহার করা হয় 
+
+![image not found ](./img/disticnt.png) 
+
+> ## DISTINCT :- টেবিল এর  নির্দিষ্ট কলাম এর  মিল থাকা ডাটা শুধুমাত্র  একবার দেখার  জন্য  ব্যবহার করা হয় 
+
+![image not found ](./img/disticnt.png) 
+
+> ## Order by :-  ডাটা গুলো  নির্দিষ্ট করে  সাজানোর জন্য  ব্যবহার করা হয় 
+ ![image not found ](./img/order1.png) 
+ ![image not found ](./img/order-dsc.png) 
+ ![image not found ](./img/order3.png) 
+
+ --- 
+
+ ![image not found ](./img/order3.png) 
+
+ -----
+
+ ![image not found ](./img/where1.png) 
+ ![image not found ](./img/where2.png) 
+ ![image not found ](./img/where3.png) 
+
+-----
+
+> ## Between :- কত ডাটা থেকে কত পর্যন্ত কোনো  নির্দিষ্ট  শর্ত দেওয়া  থাকে 
+ ![image not found ](./img/between.png) 
+
+ > ## Operator 
+ ![image not found ](./img/operator.png) 
+ ![image not found ](./img/operator2.png) 
+ ![image not found ](./img/operator3.png) 
+ ![image not found ](./img/operator4.png) 
+ ![image not found ](./img/operator5.png) 
+ ![image not found ](./img/operator6.png) 
+ ![image not found ](./img/operater7.png) 
+ ![image not found ](./img/operater8.png) 
+
+
+ > ## Like  
+ ![image not found ](./img/like.png) 
+ ![image not found ](./img/like2.png) 
+ ![image not found ](./img/like3.png) 
+ ![image not found ](./img/like4.png) 
+
+
