@@ -125,4 +125,65 @@
  ![image not found ](./img/like3.png) 
  ![image not found ](./img/like4.png) 
 
+----
+ > ## Update   
+ ![image not found ](./img/update.png) 
+ ![image not found ](./img/update.png) 
+
+----
+ > ## Deletet    
+ ![image not found ](./img/delete-data.png) 
+ ![image not found ](./img/delete-data.png) 
+
+----
+ > ## Concate     
+ ![image not found ](./img/concat.png) 
+ ![image not found ](./img/concat2.png) 
+
+ ----
+
+ > ## As 
+ 
+ ![image not found ](./img/as.png) 
+
+ > ## Greatest and Less      
+ ![image not found ](./img/greatest.png) 
+ ![image not found ](./img/least.png) 
+ ![image not found ](./img/group-functions.png) 
+
+---
+
+ > ## Upper      
+ ![image not found ](./img/upper.png) 
+ ![image not found ](./img/upper2.png) 
+
+---
+
+ > ## Agregate Functions       
+ ![image not found ](./img/agregate1.png) 
+ ![image not found ](./img/agregate2.png) 
+ ![image not found ](./img/agregate3.png) 
+ ![image not found ](./img/agregate4.png) 
+ ![image not found ](./img/agregate5.png) 
+
+ > ## Alter  Functions       
+ ![image not found ](./img/alter1.png) 
+ ![image not found ](./img/alter2.png) 
+ ![image not found ](./img/alter3.png) 
+ ![image not found ](./img/alter4.png) 
+ ![image not found ](./img/alter5.png) 
+
+
+ > ## Group by        
+ ![image not found ](./img/group-by.png) 
+ ![image not found ](./img/group-by2.png) 
+ ![image not found ](./img/group-by3.png) 
+
+> ## Truncate        
+ ![image not found ](./img/truncate.png) 
+ ![image not found ](./img/truncate2.png) 
+
+
+
+
 
